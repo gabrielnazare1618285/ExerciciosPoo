@@ -24,8 +24,8 @@ public class Zoologico {
             animal.exibirInfo();
 
             // Downcasting seguro
-            if (animal instanceof Cachorro) {
-                ((Cachorro) animal).abanarRabo();
+            if (animal instanceof Ornitorrinco) {
+                ((Ornitorrinco) animal).combatendoDoutorDoofenshmirtz();
             }
             System.out.println("---");
         }
