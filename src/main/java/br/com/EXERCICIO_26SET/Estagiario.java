@@ -1,4 +1,4 @@
-package br.com.domain;
+package br.com.EXERCICIO_26SET;
 
 public class Estagiario extends Funcionario {
 
